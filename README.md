@@ -1,8 +1,7 @@
 # Ma Documentation Personnelle en Data Science
 
-# Documentation Personnelle
+<h3>Cette Documentation est susceptible d'évoluer. Nos axes de documentation Concerne, tous d'abord la trilogie :</h3>
 
-Cette Documentation est susceptible d'évoluer. Nos axes de documentation Concerne, tous d'abord la trilogie : 
 + Statistiques Fondamentales avec Python 
 + Fondements de la Data Science avec Python
 + Séries Temporelles
